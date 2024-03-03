@@ -52,7 +52,7 @@ Enclosure or Case: Select a box or case to house and protect all the components.
 Feel free to customize this project according to your needs. Remember to approach this project ethically and without causing harm to animals. 🐾
 
 
-				###	Cat? (If you’re afraid of dogs and cats)	###
+				###	Cat? (If you’re afraid of cats)	###
 
 Project Name: “ Cat-Repeller.ino ”
 
